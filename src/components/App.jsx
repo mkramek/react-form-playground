@@ -1,9 +1,7 @@
+import ContactForm from "./form/ContactForm";
+
 function App() {
-  return (
-    <>
-      <h1>React Homework Template (Vite)</h1>
-    </>
-  );
+  return <ContactForm />;
 }
 
 export default App;
